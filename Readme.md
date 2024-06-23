@@ -3,6 +3,25 @@ Welcome 🙂 <br/>
 We know how stressful home assignments can be (especially those with a time limit), so this is your reminder to breathe, read the assignment slowly - and simply do what you do best.
 It’s all about getting to know you, as a developer.
 
+## About
+This project was build using React + NodeJS + Recoil (state manager) in the frontend and Express + NodeJS  + .JSON's to store data in the backend.
+
+## Run the project
+To run the project please - open terminal at /server directory and use the 
+```
+yarn start:dev // for development
+OR
+yarn start
+```
+
+Then move back to project root directory and run 
+```
+yarn start
+OR
+yarn start:dev // for development
+```
+
+
 We don’t expect you to finish everything in 3 hours, we want to see where your focus is.
 ## Intro
 Veev is part of a wave of innovation in the construction industry, committed to optimizing the process of building homes. As a subsidiary of Lennar, the second-largest home developer in the US, we leverage extensive resources and a forward-thinking approach to redefine what is possible in our field. 
